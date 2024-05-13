@@ -1,6 +1,5 @@
 # MapTiler Version
 
- * セブンネットプリント: 予約番号 **XF888LT9**   A3カラー:100円、2021/05/31 23:59:59JST迄
  * [PDFファイル](https://github.com/furuhashilab/WorldTileMap4lecture/blob/main/maptiler/MapTiler_WorldTileMap_A3.pdf)
  * [JPEG 300dpi ファイル](https://github.com/furuhashilab/WorldTileMap4lecture/blob/main/maptiler/MapTiler_WorldTileMap_A3_300dpi.jpg)
  * [Pagesファイル](https://github.com/furuhashilab/WorldTileMap4lecture/blob/main/maptiler/MapTiler_WorldTileMap_A3.pages)
